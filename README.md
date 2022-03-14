@@ -2,7 +2,7 @@
 
 <h3>Recriando a página principal do Netflix de forma responsiva, utilizando HTML, CSS e jQuery. </h3>
 
-<h4> JGFLIX: catálogo de vídeos de artistas de pop, k-pop e dance. </h4> 
+*JGFLIX: catálogo de vídeos de artistas de pop, k-pop e dance.*
 
 <br>
 
