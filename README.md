@@ -1,6 +1,6 @@
 #  JGFLIX - Desafio Bootcamp Impulso Fullstack Web Developer - DIO
 
-<h3>Recriando a página principal do Netflix de forma responsiva, utilizando HTML, CSS e jQuery. </h3>
+<h3>Recriando a página principal da Netflix de forma responsiva, utilizando HTML, CSS e jQuery. </h3>
 
 *JGFLIX: catálogo de vídeos de artistas de pop, k-pop e dance.*
 
